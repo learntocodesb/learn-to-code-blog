@@ -12,4 +12,4 @@ markdown: kramdown
 
 # Deploy settings
 gems: ['kramdown']
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'vendor']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'vendor', 'README.md']
