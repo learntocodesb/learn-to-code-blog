@@ -30,10 +30,10 @@ namespace :posts do
     post.write [
       "---",
       "layout: post",
-      "title:  #{post_title}",
-      "author: \"Fred Savage\"",
+      "title: #{post_title}",
+      "author: Fred Savage",
       "author_github: fredsavage",
-      "date:   #{post_date}",
+      "date: #{post_date}",
       "categories: ",
       "---"
     ].join("\n")

@@ -1,7 +1,7 @@
 # Learn to Code -- Santa Barbara
 
 ## About
-This is a site and blog for the Learn to Code -- Santa Barbara meetup group.
+This is a site and blog for the [Learn to Code -- Santa Barbara](http://www.meetup.com/learn-to-code-santa-barbara/) meetup group.
 
 The site is built with [Jekyll](https://jekyllrb.com/) and deployed on [Heroku](https://heroku.com/).
 
@@ -19,8 +19,10 @@ From there, you can:
 ## Contributing
 Contributing comes in many forms. You can:
 * Submit issues or ideas.
-* Make some sweet sass-y styling changes (or help make this site more original and unique to our group).
+* Make the docs awesome-er.
+* Show off your sweet sass-y styling skills (or help make this site more original and unique to our group).
 * Write new blog posts about anything programming, design or tech related.
+* Write Rake tasks or anything Ruby to make our lives easier (just note that this is a static site so you can only do so much with Ruby).
 * Anything else that you can thing of!
 
 Once you've made your changes, submit a pull request from your fork :)
