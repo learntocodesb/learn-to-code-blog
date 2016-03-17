@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding A Favicon to the Blog
+title: An (overly) detailed explanation of how to submit a Pull Request
 author: John Magee
 author_github: jemagee
 categories:
