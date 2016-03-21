@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An (overly) detailed explanation of how to submit a Pull Request
+title: An (overly) Detailed Explanation of How to Submit a Pull Request
 author: John Magee
 author_github: jemagee
 categories:
@@ -24,7 +24,8 @@ I don't generally like the TL:DR concept for my own personal reasons, but this a
 2. [Clone the fork](#step2)
 3. [Setup the clone](#step3) 
 4. [Make Changes](#step4)
-5. [Submit a Pull Request](#step5)
+5. [Commit Changes](#step5)
+6. [Submit a Pull Request](#step6)
 
 ### <a name="step1"></a>Step 1 - **Fork** the repository.
 
@@ -90,7 +91,7 @@ Now, if this is your own project you're working on, git push should be relativel
 
 Ok, so now you've made your super duper change and you want to check it out on the blog.  Ok, that's very cool, but you gotta do one more thing.
 
-### <a name="step5"></a>Step 5 - Make A Pull request.
+### <a name="step6"></a>Step 6 - Make A Pull request.
 
 Remember, the changes you made are not to the original blog, but your forked copy of the blog.  You have to get your changes merged with the original blog, but github makes sure that there is a process that prevents you from overriding any changes made by others in the mean time (your fork is a 'forked copy' of the original project at the time you forked it, other changes may be made to the project while you're working on yours), and prevents you from doing anything disastorous to someone else's code.  If you've been to graduate school, consider the Pull request a 'peer review' of the changes you want to make.
 
