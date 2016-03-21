@@ -3,7 +3,7 @@ title: Learn to Code -- Santa Barbara
 email: info@learntocodesb.org
 description: A group that teaches people to read good... code.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://learntocodesb.org" # the base hostname & protocol for your site
+url: "http://learntocodesb.github.io" # the base hostname & protocol for your site
 github_username: learntocodesb
 meetup_link: "http://www.meetup.com/learn-to-code-santa-barbara"
 
@@ -12,4 +12,4 @@ markdown: kramdown
 
 # Deploy settings
 gems: ['kramdown']
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'Procfile', 'Rakefile', 'vendor', 'README.md']
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'vendor', 'README.md']

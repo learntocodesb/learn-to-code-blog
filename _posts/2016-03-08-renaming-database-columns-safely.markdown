@@ -24,7 +24,7 @@ Max (me):
 
 >I changed the column mastery to track mentor, updated some tests and created a migration. All tests passed locally after db:migrate. I think this is a good jump off point. Let me know what you think :)
 
-Katrina ():
+Katrina (Exercism creator):
 
 >At the moment, if we deploy this change, then there is a bit of time between when the site is deployed and the migration finishes running where queries and methods are referencing a field that doesn't exist. I'd rather not have to take the site down for maintenance if we can avoid it.
 

@@ -1,10 +1,3 @@
-desc "build _site"
-namespace :assets do
-  task :precompile do
-    puts `bundle exec jekyll build`
-  end
-end
-
 desc "generate post"
 namespace :posts do
   task :generate do
